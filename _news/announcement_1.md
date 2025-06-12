@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-11 5:00:00+0900
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+:sparkles: Our work on 3D Gaussian Splatting Steganography was accepted at SIGGRAPH 2025 Posters, and was selected as a semi-finalist for the ACM Student Research Competition (SRC).
